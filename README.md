@@ -5,5 +5,16 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Unity+Game+Developer;Gameplay+Programmer;AI+%26+NPC+Systems;Mobile+Game+Developer;Always+Learning+%26+Building" />
-
+<svg width="900" height="80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#111"/>
+  <text y="55" font-size="42" fill="#00ff88" font-family="Orbitron">
+    <animate
+      attributeName="x"
+      from="900"
+      to="-700"
+      dur="10s"
+      repeatCount="indefinite"/>
+    🎮 DEV.RIMON • UNITY GAME DEVELOPER • BUILDING IMMERSIVE WORLDS •
+  </text>
+</svg>
+</p>
